@@ -4,7 +4,11 @@ An attempt to convert programming assignments of [Coursera Machine Learning](htt
 
 * Programming Exercise 1: Linear Regression
 * Programming Exercise 2: Logistic Regression
+  1. Logistic Regression
+  2. Regularized Logistic Regression
 * Programming Exercise 3: Multi-class Classification and Neural Networks
+  1. Multi-class Classification
+  2. Neural Networks
 * Programming Exercise 4: Neural Networks Learning
 * Programming Exercise 5: Regularized Linear Regression and Bias v.s. Variance
 * Programming Exercise 6: Support Vector Machines
