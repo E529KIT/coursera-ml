@@ -11,6 +11,6 @@ An attempt to convert programming assignments of [Coursera Machine Learning](htt
    2. Neural Networks
 4. [Neural Networks Learning](ex4/python)
 5. [Regularized Linear Regression and Bias v.s. Variance](ex5/python)
-6. Support Vector Machines
+6. [Support Vector Machines](ex6/python)
 7. K-means Clustering and Principal Component Analysis
 8. Anomaly Detection and Recommender Systems
