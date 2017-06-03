@@ -13,4 +13,4 @@ An attempt to convert programming assignments of [Coursera Machine Learning](htt
 5. [Regularized Linear Regression and Bias v.s. Variance](ex5/python)
 6. [Support Vector Machines](ex6/python)
 7. [K-means Clustering and Principal Component Analysis](ex7/python)
-8. Anomaly Detection and Recommender Systems
+8. [Anomaly Detection and Recommender Systems](ex8/python)
